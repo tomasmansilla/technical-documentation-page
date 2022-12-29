@@ -2,7 +2,7 @@
 
 ![Desktop design](design/desktop-design.png)
 
-This is a [solution]() to the [Technical Documentation Page challenge on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page). freeCodeCamp is a community of millions of people around the world who are learning to code together.
+This is a [solution](https://tomasmansilla.github.io/technical-documentation-page/) to the [Technical Documentation Page challenge on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page). freeCodeCamp is a community of millions of people around the world who are learning to code together.
 
 ## Table of contents
 
