@@ -123,11 +123,9 @@ nav > header {
 }
 
 .back-to-top > a::after {
-  width: 0;
-  height: 0;
   content: "";
   border: 0.7em solid;
-  border-color: var(--text-color) transparent;
+  border-color: transparent transparent var(--text-color);
 }
 
 @media screen and (min-width: 45em) {
@@ -170,8 +168,8 @@ nav > header {
   margin-top: 0.7em;
 }
 
-.section-info > ul {
-  margin-left: 2em;
+.section-info ul {
+  margin-left: 1.5em;
 }
 
 .section-info > ul > li {
